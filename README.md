@@ -6,6 +6,7 @@
 
 #### <p>👨🏽‍💻 Analista T.I Pleno em <a href="http://www.supermercadobianchini.com.br/">Bianchini Supermercados</br>
   ![Welton Silva GitHub stats](https://github-README-stats.vercel.app/api?username=WeltonSilva23&show_icons=true&theme=dark)
+   ## ⚙️ Tecnologias e Ferramentas
 <img src="LING.png" width="500px" />
 
 ```python
