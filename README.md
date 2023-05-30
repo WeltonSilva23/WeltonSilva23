@@ -9,18 +9,6 @@
    ## ⚙️ Tecnologias e Ferramentas
 <img src="LING.png" width="500px" />
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class WeltonSilva:
-  def __init__(self):
-      self.name = "Welton Silva"
-      self.role = "Analista T.I"
-      self.location = "Brazil"
-
-me = Welton Silva()
-```
 <div class="Icons">
 <a href="https://github.com/WeltonSilva23" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'" />
 <a href="https://www.linkedin.com/in/welton-silva-a4885a259/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
