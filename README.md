@@ -2,14 +2,14 @@
 
 
 
-<div> 
-
+#### <p>👨🏽‍💻 Analista T.I Pleno em <a href="http://www.supermercadobianchini.com.br/">Bianchini Supermercados</a></p>
 #### <p>💻 Estudante de ADS -> <a href="https://www.unicep.edu.br/">Unicep-SP</a></p>
 
-#### <p>👨🏽‍💻 Analista T.I Pleno em <a href="http://www.supermercadobianchini.com.br/">Bianchini Supermercados</a></p>
+<div> clss="Star>
 ![Welton Siva GitHub stats](https://github-readme-stats.vercel.app/api?username=WeltonSilva23&show_icons=true&theme=dark)
 
 <img src="LING.PNG" width="600px"/>
+  <div/>
 
 ```python
 #!/usr/bin/python
